@@ -1,0 +1,48 @@
+shipyard "human plugins"
+	"Malarstripe"
+	
+shipyard "Tarazed Advanced"
+	"Malarstripe"
+
+ship "Malarstripe"
+	sprite "ship/malarstripe"
+	thumbnail "ship/malarstripe"
+	attributes
+		category "Fighter"
+		"cost" 145000
+		"shields" 1650
+		"hull" 350
+		"required crew" 1
+		"bunks" 1
+		"mass" 25
+		"drag" .72
+		"heat dissipation" 1.1
+		"outfit space" 130
+		"weapon capacity" 35
+		"engine capacity" 35
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Beam Laser" 4
+		
+		"Dwarf Core"
+		"Supercapacitor"
+		"Cooling Ducts"
+		"D14-RN Shield Generator"
+		"Small Radar Jammer"
+		
+		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+		
+	engine 0 27.5
+	gun -11.5 8.5
+	gun 11.5 8.5
+	gun -8 9
+	gun 8 9
+	explode "tiny explosion" 22
+	explode "small explosion" 8
+	description "Designed at the same time as its much larger cousin, the Malarstripe is a miniaturized Kestrel, designed to bring the high technology used in the Kestrel to the fighter playing field. It is one of the strongest fighters ever produced by humanity, carrying more weapons and shielding than any other."
+	description "	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay."

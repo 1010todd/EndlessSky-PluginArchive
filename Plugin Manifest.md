@@ -1511,6 +1511,16 @@ In development, Playable on 0.9.14, 0.9.15 Continuous.
 
 **Status**
 
+## Malarstripe
+
+**Created by Zoura (AvianGeneticist) **
+
+Add Malarstripe fighter to Tarazed shipyards.
+
+**Status**
+
+Playable on 0.9.15/0.9.16/Continuous.
+
 ## Marauder Bactrian
 
 **Created by jchamlin**
