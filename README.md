@@ -75,7 +75,7 @@ Provide a directlink to your zipped plugin and we do a daily check if it is newe
 
 # Introduction
 
-A comprehensive library of 475 ancient and new plugins for the open-source game Endless Sky.
+A comprehensive library of 479 ancient and new plugins for the open-source game Endless Sky.
 
 ---
 
@@ -222,11 +222,11 @@ To keep these files related together, you have to give them the same name.
 
 # Plugin Download
 
-All Plugins (475)
+All Plugins (479)
 
 [Cheats](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#cheats) (36) | [Gameplay](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#gameplay) (34) | [Graphics](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#graphics) (17) | [Outfits](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#outfits) (35)<br>
 [Overhauls](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#overhauls) (38) | [Overwrites](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#overwrites) (1) | [Patches](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#patches) (3) | [Races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#races) (64)<br>
-[Ships](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#ships) (120) | [Story](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#story) (61) | [Weapons](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#weapons) (40) | [Uncategorized](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#uncategorized) (26)<br>
+[Ships](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#ships) (120) | [Story](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#story) (61) | [Weapons](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#weapons) (40) | [Uncategorized](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/README.md#uncategorized) (30)<br>
 
 
 
@@ -7894,7 +7894,7 @@ Status: N/A
 
 ## Uncategorized
 
-<p>26 plugins in this category.<p>
+<p>30 plugins in this category.<p>
 
 <details>
 
@@ -7919,6 +7919,22 @@ Status: N/A
 
 ---
 
+### All Plugins
+
+
+[All.Plugins.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Plugins.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Plugins/)  
+Author: N/A | N/A[]()  
+Category: Uncategorized  
+
+>N/A
+>
+
+
+Status: N/A  
+
+
+---
+
 ### Amalgamation
 
 
@@ -7929,38 +7945,6 @@ Category: N/A
 >A large collection of older plugins that have been edited and modified to work together with the newer versions of Endless Sky and be overall more balanced and lore friendly, along with many unique Amalgamation additions to fill out previous placeholders in these plugins.
 >
 >The plugins included are: Shields Up, Enclave, Quarg Military Retaliation, ZRemnantX's ships, Tribute Plus, Space Conversion, Businessman, Inheritance ships, KorNewShips, Korath Automation Upgrade, Enigma Corps outfits, Cultures of the Southern Arm ships, Flamethrower Turret and The Machines are Taking Over.
->
-
-
-Status: N/A  
-
-
----
-
-### Amphibious-Ships
-
-
-[Amphibious-Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Amphibious-Ships.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Plugins/Amphibious-Ships/)  
-Author: N/A | N/A[]()  
-Category: Uncategorized  
-
->N/A
->
-
-
-Status: N/A  
-
-
----
-
-### Ancient Saryds
-
-
-[Ancient.Saryds.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ancient.Saryds.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Plugins/Ancient%20Saryds/)  
-Author: N/A | N/A[]()  
-Category: Uncategorized  
-
->N/A
 >
 
 
@@ -8147,6 +8131,22 @@ Status: N/A
 
 ---
 
+### Gameplay
+
+
+[Gameplay.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Gameplay.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Gameplay/)  
+Author: N/A | N/A[]()  
+Category: Uncategorized  
+
+>N/A
+>
+
+
+Status: N/A  
+
+
+---
+
 ### Hi Quality Stainless Steel Nonstick Pan
 
 
@@ -8171,22 +8171,6 @@ Author: N/A | N/A[]()
 Category: N/A  
 
 >This plugin add a few ships that are a modified variant of existing ships by individuals and private groups like pirates and some merchants.
->
-
-
-Status: N/A  
-
-
----
-
-### Kor-Fighter-Additions
-
-
-[Kor-Fighter-Additions.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kor-Fighter-Additions.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Plugins/Kor-Fighter-Additions/)  
-Author: N/A | N/A[]()  
-Category: Uncategorized  
-
->N/A
 >
 
 
@@ -8293,10 +8277,10 @@ Status: Playable on 0.9.15/0.9.16.
 
 ---
 
-### Sestor-Expansion
+### Races
 
 
-[Sestor-Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Sestor-Expansion.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Plugins/Sestor-Expansion/)  
+[Races.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Races.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Races/)  
 Author: N/A | N/A[]()  
 Category: Uncategorized  
 
@@ -8333,6 +8317,22 @@ Status: N/A
 [ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip) | 1.41 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/ShieldsUp%20Pompano's%20Ever%20Expanding%20Galaxy/)  
 Author: N/A | N/A[]()  
 Category: N/A  
+
+>N/A
+>
+
+
+Status: N/A  
+
+
+---
+
+### Ships
+
+
+[Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ships.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ships/)  
+Author: N/A | N/A[]()  
+Category: Uncategorized  
 
 >N/A
 >
