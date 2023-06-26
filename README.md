@@ -7924,7 +7924,7 @@ Status: N/A
 
 [All.Plugins.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Plugins.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Plugins/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
@@ -8136,7 +8136,7 @@ Status: N/A
 
 [Gameplay.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Gameplay.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Gameplay/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
@@ -8282,7 +8282,7 @@ Status: Playable on 0.9.15/0.9.16.
 
 [Races.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Races.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Races/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
@@ -8332,7 +8332,7 @@ Status: N/A
 
 [Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ships.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ships/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
