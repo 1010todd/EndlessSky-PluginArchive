@@ -4,6 +4,8 @@
 News(latest 15 entries):
 <table><tr><td width=800>
 
+2023-07-07 'additional.command.buttons' updated
+
 2023-06-23 'galactic.capital.investment' updated
 
 2023-06-22 'galactic.capital.investment' updated
@@ -31,8 +33,6 @@ News(latest 15 entries):
 2023-06-20 'automata.in.human.space' updated
 
 2023-06-20 'automata.destruction.23percent' updated
-
-2023-06-19 'galactic.capital.investment' updated
 
 
 
@@ -5141,7 +5141,7 @@ Status: N/A
 <img src='Working/Mega Freight/icon.png' width='100'></img><br>
 
 
-[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 32.05 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/)  
+[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/)  
 Author: 1010todd | [https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight)  
 Category: Ships  
 
@@ -6297,7 +6297,7 @@ Status: N/A
 ### Coalition-At-War
 
 
-[Coalition-At-War.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Coalition-At-War.zip) | 46.02 kb | 2023-03-04 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Coalition-At-War/)  
+[Coalition-At-War.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Coalition-At-War.zip) | 43.06 kb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Coalition-At-War/)  
 Author: Josh Mudge | [https://github.com/mathwhiz1212/A-Coalition-At-War](https://github.com/mathwhiz1212/A-Coalition-At-War)  
 Category: Story  
 
@@ -6578,7 +6578,7 @@ Status: N/A
 <img src='Working/Lemurias Extra ES Stuff/icon.png' width='100'></img><br>
 
 
-[Lemurias.Extra.ES.Stuff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | 9.33 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lemurias%20Extra%20ES%20Stuff/)  
+[Lemurias.Extra.ES.Stuff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | 13.63 mb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lemurias%20Extra%20ES%20Stuff/)  
 Author: a-random-lemurian | [https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff](https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff)  
 Category: Story  
 
@@ -6611,7 +6611,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Lost in Midnight/icon.png' width='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 35.24 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/)  
+[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 61.15 mb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight/releases](https://github.com/MidnightPlugins/Lost-in-Midnight/releases)  
 Category: Story  
 
@@ -6661,7 +6661,7 @@ Status: N/A
 <img src='Working/Midnight Scrapyard/icon.png' width='100'></img><br>
 
 
-[Midnight.Scrapyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Scrapyard.zip) | 8.71 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Scrapyard/)  
+[Midnight.Scrapyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Scrapyard.zip) | 11.0 mb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Scrapyard/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard/releases](https://github.com/MidnightPlugins/Midnight-Scrapyard/releases)  
 Category: Story  
 
@@ -6846,7 +6846,7 @@ Status: N/A
 <img src='Working/Portraits for News/icon.png' width='100'></img><br>
 
 
-[Portraits.for.News.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Portraits.for.News.zip) | 1.09 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Portraits%20for%20News/)  
+[Portraits.for.News.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Portraits.for.News.zip) | 1.1 mb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Portraits%20for%20News/)  
 Author: Anarchist2 | [https://github.com/Anarchist2/ES-news-portraits](https://github.com/Anarchist2/ES-news-portraits)  
 Category: Story  
 
@@ -6928,7 +6928,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Space Shuttle Start/icon.png' height='100'></img><br>
 
 
-[Space.Shuttle.Start.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Space.Shuttle.Start.zip) | 488.11 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Space%20Shuttle%20Start/)  
+[Space.Shuttle.Start.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Space.Shuttle.Start.zip) | 2.35 mb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Space%20Shuttle%20Start/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Space-Shuttle-Start/releases](https://github.com/MidnightPlugins/Space-Shuttle-Start/releases)  
 Category: Story  
 
@@ -7755,7 +7755,7 @@ Status: N/A
 <img src='Working/sensor/icon.png' width='100'></img><br>
 
 
-[sensor.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/sensor.zip) | 9.5 kb | 2023-03-04 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/sensor/)  
+[sensor.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/sensor.zip) | 167.17 kb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/sensor/)  
 Author: orbitalsupershell | [https://github.com/orbitalsupershell/sensor](https://github.com/orbitalsupershell/sensor)  
 Category: Weapons  
 
@@ -7956,7 +7956,7 @@ Status: N/A
 ### Arena of the worthy
 
 
-[Arena.of.the.worthy.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arena.of.the.worthy.zip) | 1.86 mb | 2022-11-09 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arena%20of%20the%20worthy/)  
+[Arena.of.the.worthy.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arena.of.the.worthy.zip) | 1.91 mb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arena%20of%20the%20worthy/)  
 Author: RisingLeaf | [https://github.com/RisingLeaf/Arena-of-the-Worthy/tree/main](https://github.com/RisingLeaf/Arena-of-the-Worthy/tree/main)  
 Category: N/A  
 
@@ -8263,7 +8263,7 @@ Status: N/A
 ### Play As Sestor
 
 
-[Play.As.Sestor.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Play.As.Sestor.zip) | 5.69 kb | 2022-11-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Play%20As%20Sestor/)  
+[Play.As.Sestor.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Play.As.Sestor.zip) | 44.01 kb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Play%20As%20Sestor/)  
 Author: Zoura (AvianGeneticist) | [https://github.com/AvianGeneticist/Play-As-Sestor](https://github.com/AvianGeneticist/Play-As-Sestor)  
 Category: N/A  
 
@@ -8346,7 +8346,7 @@ Status: N/A
 ### Sounds Of Endless Sky
 
 
-[Sounds.Of.Endless.Sky.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Sounds.Of.Endless.Sky.zip) | 46.55 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Sounds%20Of%20Endless%20Sky/)  
+[Sounds.Of.Endless.Sky.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Sounds.Of.Endless.Sky.zip) | 51.59 mb | 2023-07-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Sounds%20Of%20Endless%20Sky/)  
 Author: Sam Gleske | [https://github.com/samrocketman/sounds-of-endless-sky](https://github.com/samrocketman/sounds-of-endless-sky)  
 Category: N/A  
 
