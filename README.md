@@ -3403,7 +3403,7 @@ Status: N/A
 <img src='Working/Core Mining Inc/icon.png' width='100'></img><br>
 
 
-[Core.Mining.Inc.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Core.Mining.Inc.zip) | 363.82 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Core%20Mining%20Inc/)  
+[Core.Mining.Inc.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Core.Mining.Inc.zip) | 376.15 kb | 2023-08-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Core%20Mining%20Inc/)  
 Author: DJF113 | [https://github.com/DJF113/Core-Mining-Inc](https://github.com/DJF113/Core-Mining-Inc)  
 Category: Races  
 
@@ -4613,7 +4613,7 @@ Status: N/A
 ### Endless-Sky-Ship
 
 
-[Endless-Sky-Ship.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Endless-Sky-Ship.zip) | 1.25 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Endless-Sky-Ship/)  
+[Endless-Sky-Ship.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Endless-Sky-Ship.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Endless-Sky-Ship/)  
 Author: The-Borg-Captain | [https://github.com/The-Borg-Captain/Endless-Sky-Ship](https://github.com/The-Borg-Captain/Endless-Sky-Ship)  
 Category: Ships  
 
@@ -6611,7 +6611,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Lost in Midnight/icon.png' width='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 61.46 mb | 2023-08-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/)  
+[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 61.5 mb | 2023-08-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight/releases](https://github.com/MidnightPlugins/Lost-in-Midnight/releases)  
 Category: Story  
 
