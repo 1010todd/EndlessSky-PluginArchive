@@ -4,6 +4,10 @@
 News(latest 15 entries):
 <table><tr><td width=800>
 
+2023-08-29 'snowfeather.robotics' updated
+
+2023-08-29 'more.boarding.missions' updated
+
 2023-07-07 'additional.command.buttons' updated
 
 2023-06-23 'galactic.capital.investment' updated
@@ -29,10 +33,6 @@ News(latest 15 entries):
 2023-06-20 'more.boarding.missions' updated
 
 2023-06-20 'automata.destruction.51percent' updated
-
-2023-06-20 'automata.in.human.space' updated
-
-2023-06-20 'automata.destruction.23percent' updated
 
 
 
@@ -2219,7 +2219,7 @@ Status: N/A
 ---
 
 ### snowfeather.robotics
-<img src='Working/snowfeather.robotics/icon.png' width='100'></img><br>
+<img src='Working/snowfeather.robotics/icon.png' height='100'></img><br>
 
 
 [snowfeather.robotics.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/snowfeather.robotics.zip) | 53.6 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/snowfeather.robotics/)  
