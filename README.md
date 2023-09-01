@@ -2410,7 +2410,7 @@ Status: in development and playable 0.9.15 continous
 <img src='Working/A Galaxy Far Far Away/icon.png' width='100'></img><br>
 
 
-[A.Galaxy.Far.Far.Away.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/A.Galaxy.Far.Far.Away.zip) | 641.3 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/A%20Galaxy%20Far%20Far%20Away/)  
+[A.Galaxy.Far.Far.Away.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/A.Galaxy.Far.Far.Away.zip) | 282.33 mb | 2023-09-01 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/A%20Galaxy%20Far%20Far%20Away/)  
 Author: Ember369 | [https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away](https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away)  
 Category: Overhauls  
 
@@ -3000,7 +3000,7 @@ Status: N/A
 <img src='Working/unique.fix/icon.png' width='100'></img><br>
 
 
-[unique.fix.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/unique.fix.zip) | 95.83 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/unique.fix/)  
+[unique.fix.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/unique.fix.zip) | 202.25 kb | 2023-08-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/unique.fix/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Overhauls  
 
@@ -3153,7 +3153,7 @@ Status: N/A
 <img src='Working/AES Aben/icon.png' width='100'></img><br>
 
 
-[AES.Aben.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Aben.zip) | 30.94 kb | 2023-08-30 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Aben/)  
+[AES.Aben.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Aben.zip) | 30.93 kb | 2023-08-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Aben/)  
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)  
 Category: Races  
 
@@ -3187,7 +3187,7 @@ Status: N/A
 <img src='Working/AES Irm/icon.png' width='100'></img><br>
 
 
-[AES.Irm.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Irm.zip) | 2.11 mb | 2023-08-30 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Irm/)  
+[AES.Irm.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Irm.zip) | 2.11 mb | 2023-08-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Irm/)  
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)  
 Category: Races  
 
