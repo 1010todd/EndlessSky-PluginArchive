@@ -263,7 +263,7 @@ Status: N/A
 <img src='Working/All Content Plugin/icon.png' width='100'></img><br>
 
 
-[All.Content.Plugin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Content.Plugin.zip) | 148.77 kb | 2023-09-09 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Content%20Plugin/)  
+[All.Content.Plugin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Content.Plugin.zip) | 148.81 kb | 2023-10-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/All%20Content%20Plugin/)  
 Author: Michael Zahniser | [https://github.com/endless-sky/all-content-plugin](https://github.com/endless-sky/all-content-plugin)  
 Category: Cheats  
 
@@ -4908,7 +4908,7 @@ Status: N/A
 ### Kor-Fighter-Additions
 
 
-[Kor-Fighter-Additions.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kor-Fighter-Additions.zip) | 4.44 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kor-Fighter-Additions/)  
+[Kor-Fighter-Additions.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kor-Fighter-Additions.zip) | 76.33 mb | 2023-10-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kor-Fighter-Additions/)  
 Author: EjoThims | N/A[]()  
 Category: Ships  
 
@@ -6611,7 +6611,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Lost in Midnight/icon.png' width='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 61.62 mb | 2023-09-23 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/)  
+[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 61.67 mb | 2023-10-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight/releases](https://github.com/MidnightPlugins/Lost-in-Midnight/releases)  
 Category: Story  
 
