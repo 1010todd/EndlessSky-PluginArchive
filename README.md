@@ -2478,7 +2478,7 @@ Status: N/A
 <img src='Working/Better Vanilla Pirates/icon.png' width='100'></img><br>
 
 
-[Better.Vanilla.Pirates.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Better.Vanilla.Pirates.zip) | 97.01 kb | 2023-10-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Better%20Vanilla%20Pirates/)  
+[Better.Vanilla.Pirates.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Better.Vanilla.Pirates.zip) | 101.16 kb | 2023-10-12 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Better%20Vanilla%20Pirates/)  
 Author: ZBok | [https://github.com/ZBok/BetterVanillaPirates](https://github.com/ZBok/BetterVanillaPirates)  
 Category: Overhauls  
 
@@ -3338,7 +3338,7 @@ Status: N/A
 <img src='Working/Arion/icon.png' width='100'></img><br>
 
 
-[Arion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip) | 2.6 mb | 2023-10-08 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion/)  
+[Arion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip) | 2.6 mb | 2023-10-12 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion/)  
 Author: Spectre907YT | [https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion)  
 Category: Races  
 
