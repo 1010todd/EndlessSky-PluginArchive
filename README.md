@@ -3153,7 +3153,7 @@ Status: N/A
 <img src='Working/AES Aben/icon.png' width='100'></img><br>
 
 
-[AES.Aben.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Aben.zip) | 31.94 kb | 2023-09-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Aben/)  
+[AES.Aben.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Aben.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Aben/)  
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)  
 Category: Races  
 
@@ -3187,7 +3187,7 @@ Status: N/A
 <img src='Working/AES Irm/icon.png' width='100'></img><br>
 
 
-[AES.Irm.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Irm.zip) | 2.12 mb | 2023-09-30 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Irm/)  
+[AES.Irm.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Irm.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Irm/)  
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)  
 Category: Races  
 
@@ -3204,7 +3204,7 @@ Status: N/A
 <img src='Working/AES Korath/icon.png' width='100'></img><br>
 
 
-[AES.Korath.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Korath.zip) | 2.97 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Korath/)  
+[AES.Korath.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Korath.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Korath/)  
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)  
 Category: Races  
 
@@ -3221,7 +3221,7 @@ Status: N/A
 <img src='Working/AES Misc/icon.png' width='100'></img><br>
 
 
-[AES.Misc.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Misc.zip) | 16.57 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Misc/)  
+[AES.Misc.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Misc.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Misc/)  
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)  
 Category: Races  
 
@@ -3239,7 +3239,7 @@ Status: N/A
 <img src='Working/AES Quarg/icon.png' width='100'></img><br>
 
 
-[AES.Quarg.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Quarg.zip) | 7.44 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Quarg/)  
+[AES.Quarg.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Quarg.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/AES%20Quarg/)  
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)  
 Category: Races  
 
@@ -7906,7 +7906,7 @@ Status: N/A
 <img src='Working/-Omnis/icon.png' width='100'></img><br>
 
 
-[-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 5.28 mb | 2023-10-11 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/)  
+[-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 7.74 mb | 2023-10-14 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/)  
 Author: N/A | N/A[]()  
 Category: N/A  
 
