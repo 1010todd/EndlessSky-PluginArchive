@@ -297,7 +297,7 @@ Status: N/A
 <img src='Working/automata.destruction.0percent/icon.png' width='100'></img><br>
 
 
-[automata.destruction.0percent.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/automata.destruction.0percent.zip) | 43.31 kb | 2023-09-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/automata.destruction.0percent/)  
+[automata.destruction.0percent.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/automata.destruction.0percent.zip) | 43.6 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/automata.destruction.0percent/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Cheats  
 
@@ -905,7 +905,7 @@ Status: N/A
 <img src='Working/automata.in.human.space/icon.png' width='100'></img><br>
 
 
-[automata.in.human.space.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/automata.in.human.space.zip) | 34.94 kb | 2023-09-01 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/automata.in.human.space/)  
+[automata.in.human.space.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/automata.in.human.space.zip) | 35.24 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/automata.in.human.space/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Gameplay  
 
@@ -1090,7 +1090,7 @@ Status: N/A
 <img src='Working/galactic.capital.investment/icon.png' width='100'></img><br>
 
 
-[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 26.18 kb | 2023-08-25 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/)  
+[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 26.58 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Gameplay  
 
@@ -1178,7 +1178,7 @@ Status: Playable on 0.9.14, 0.10.0 Continuous.
 <img src='Working/kor.efret.shipyard/icon.png' width='100'></img><br>
 
 
-[kor.efret.shipyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/kor.efret.shipyard.zip) | 29.46 kb | 2023-09-01 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/kor.efret.shipyard/)  
+[kor.efret.shipyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/kor.efret.shipyard.zip) | 29.79 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/kor.efret.shipyard/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Gameplay  
 
@@ -1263,7 +1263,7 @@ Status: N/A
 <img src='Working/more.boarding.missions/icon.png' width='100'></img><br>
 
 
-[more.boarding.missions.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/more.boarding.missions.zip) | 14.41 kb | 2023-09-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/more.boarding.missions/)  
+[more.boarding.missions.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/more.boarding.missions.zip) | 14.74 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/more.boarding.missions/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Gameplay  
 
@@ -1472,7 +1472,7 @@ Status: N/A
 <img src='Working/additional.command.buttons/icon.png' width='100'></img><br>
 
 
-[additional.command.buttons.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/additional.command.buttons.zip) | 159.76 kb | 2023-08-24 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/additional.command.buttons/)  
+[additional.command.buttons.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/additional.command.buttons.zip) | 160.07 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/additional.command.buttons/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Graphics  
 
@@ -2222,7 +2222,7 @@ Status: N/A
 <img src='Working/snowfeather.robotics/icon.png' height='100'></img><br>
 
 
-[snowfeather.robotics.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/snowfeather.robotics.zip) | 21.22 kb | 2023-08-29 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/snowfeather.robotics/)  
+[snowfeather.robotics.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/snowfeather.robotics.zip) | 21.55 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/snowfeather.robotics/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Outfits  
 
@@ -2966,7 +2966,7 @@ Status: N/A
 <img src='Working/too.many.asteroids/icon.png' width='100'></img><br>
 
 
-[too.many.asteroids.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/too.many.asteroids.zip) | 17.56 kb | 2023-09-01 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/too.many.asteroids/)  
+[too.many.asteroids.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/too.many.asteroids.zip) | 17.85 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/too.many.asteroids/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Overhauls  
 
@@ -3000,7 +3000,7 @@ Status: N/A
 <img src='Working/unique.fix/icon.png' width='100'></img><br>
 
 
-[unique.fix.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/unique.fix.zip) | 202.25 kb | 2023-08-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/unique.fix/)  
+[unique.fix.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/unique.fix.zip) | 202.5 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/unique.fix/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Overhauls  
 
@@ -3338,7 +3338,7 @@ Status: N/A
 <img src='Working/Arion/icon.png' width='100'></img><br>
 
 
-[Arion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip) | 2.93 mb | 2023-10-16 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion/)  
+[Arion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip) | 2.94 mb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion/)  
 Author: Spectre907YT | [https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion)  
 Category: Races  
 
