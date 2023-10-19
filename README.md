@@ -7019,7 +7019,7 @@ Status: N/A
 <img src='Working/Syndicate Story/icon.png' width='100'></img><br>
 
 
-[Syndicate.Story.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Syndicate.Story.zip) | 285.84 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Syndicate%20Story/)  
+[Syndicate.Story.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Syndicate.Story.zip) | 284.75 kb | 2023-10-18 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Syndicate%20Story/)  
 Author: N/A | N/A[]()  
 Category: Story  
 
