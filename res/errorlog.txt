@@ -9,7 +9,6 @@ header request error log:
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ema.Skylark.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/sheragi-rebirth-0.9.16.1.1.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/SpaceCrate-0.1.zip 
-403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://objects.githubusercontent.com/github-production-release-asset-2e65be/456062739/5ed1bf13-afc6-4102-939d-fdb2ed40ad6e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231203T034537Z&X-Amz-Expires=300&X-Amz-Signature=7e7c9f44d80e1d4406ce8ec8e3e04842a2e4d3611719ff48cef3ff588a4e2ea8&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=456062739&response-content-disposition=attachment%3B%20filename%3DHellFire.Missile.zip&response-content-type=application%2Foctet-stream 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Plugins.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Gameplay.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Races.zip 
