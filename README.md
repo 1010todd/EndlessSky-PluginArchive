@@ -4,6 +4,8 @@
 News(latest 15 entries):
 <table><tr><td width=800>
 
+2024-04-16 'more.boarding.missions' updated
+
 2024-02-20 'additional.command.buttons' updated
 
 2023-09-05 'more.boarding.missions' updated
@@ -31,8 +33,6 @@ News(latest 15 entries):
 2023-06-20 'automata.destruction.0percent' updated
 
 2023-06-20 'kor.efret.shipyard' updated
-
-2023-06-20 'unique.fix' updated
 
 
 
@@ -1574,7 +1574,7 @@ Status: Playable on 0.9.15 Continuous.
 <img src='Working/High DPI/icon.png' width='100'></img><br>
 
 
-[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | 557.37 mb | 2024-03-24 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/)  
+[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | 557.37 mb | 2024-04-15 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/)  
 Author: Michael Zahniser (Maintained by the ES Community) | [https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi)  
 Category: Graphics  
 
