@@ -4499,7 +4499,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Derogam/icon.png' width='100'></img><br>
 
 
-[Derogam.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Derogam.zip) | 5.79 mb | 2024-04-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Derogam/)  
+[Derogam.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Derogam.zip) | 5.79 mb | 2024-04-28 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Derogam/)  
 Author: Lorantine | [https://github.com/Lorantine/derogam](https://github.com/Lorantine/derogam)  
 Category: Ships  
 
