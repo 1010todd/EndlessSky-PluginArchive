@@ -8199,7 +8199,7 @@ Status: Compatible with ES 0.9.14
 ### MechSummoner
 
 
-[MechSummoner.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/MechSummoner.zip) | 478.28 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/MechSummoner/)  
+[MechSummoner.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/MechSummoner.zip) | 515.5 kb | 2024-07-09 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/MechSummoner/)  
 Author: Zoura | N/A[]()  
 Category: N/A  
 
