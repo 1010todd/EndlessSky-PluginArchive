@@ -6644,7 +6644,7 @@ Status: N/A
 <img src='Working/Midnight Expansion/icon.png' width='100'></img><br>
 
 
-[Midnight.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Expansion.zip) | 15.42 mb | 2024-08-29 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Expansion/)  
+[Midnight.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Expansion.zip) | 15.5 mb | 2024-09-26 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Expansion/)  
 Author: Michael Arsollon | N/A[]()  
 Category: Story  
 
@@ -6661,7 +6661,7 @@ Status: N/A
 <img src='Working/Midnight Scrapyard/icon.png' width='100'></img><br>
 
 
-[Midnight.Scrapyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Scrapyard.zip) | 11.4 mb | 2024-07-12 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Scrapyard/)  
+[Midnight.Scrapyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Scrapyard.zip) | 11.4 mb | 2024-09-26 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Scrapyard/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard/releases](https://github.com/MidnightPlugins/Midnight-Scrapyard/releases)  
 Category: Story  
 
