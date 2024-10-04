@@ -3403,7 +3403,7 @@ Status: N/A
 <img src='Working/Core Mining Inc/icon.png' width='100'></img><br>
 
 
-[Core.Mining.Inc.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Core.Mining.Inc.zip) | 376.15 kb | 2023-08-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Core%20Mining%20Inc/)  
+[Core.Mining.Inc.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Core.Mining.Inc.zip) | 310.98 kb | 2024-10-03 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Core%20Mining%20Inc/)  
 Author: DJF113 | [https://github.com/DJF113/Core-Mining-Inc](https://github.com/DJF113/Core-Mining-Inc)  
 Category: Races  
 
@@ -6727,7 +6727,7 @@ Status: N/A
 ### Navy Campaign
 
 
-[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.37 mb | 2024-10-02 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/)  
+[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.37 mb | 2024-10-03 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/)  
 Author: N/A | N/A[]()  
 Category: Story  
 
@@ -7755,7 +7755,7 @@ Status: N/A
 <img src='Working/sensor/icon.png' width='100'></img><br>
 
 
-[sensor.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/sensor.zip) | 3.46 mb | 2024-10-01 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/sensor/)  
+[sensor.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/sensor.zip) | 3.46 mb | 2024-10-03 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/sensor/)  
 Author: orbitalsupershell | [https://github.com/orbitalsupershell/sensor](https://github.com/orbitalsupershell/sensor)  
 Category: Weapons  
 
