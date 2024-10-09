@@ -5472,7 +5472,7 @@ Status: Playable on 0.9.15 Continuous.
 ### QuaernanHardpointsCarries
 
 
-[QuaernanHardpointsCarries.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/QuaernanHardpointsCarries.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/QuaernanHardpointsCarries/)  
+[QuaernanHardpointsCarries.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/QuaernanHardpointsCarries.zip) | 1.03 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/QuaernanHardpointsCarries/)  
 Author: Zoura3025 | [https://github.com/AvianGeneticist/QuaernanHardpointsCarries](https://github.com/AvianGeneticist/QuaernanHardpointsCarries)  
 Category: Ships  
 
@@ -6183,7 +6183,7 @@ Status: N/A
 ### Advanced Starts
 
 
-[Advanced.Starts.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Advanced.Starts.zip) | 11.72 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Advanced%20Starts/)  
+[Advanced.Starts.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Advanced.Starts.zip) | 23.75 kb | 2024-10-08 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Advanced%20Starts/)  
 Author: Bereskatuket (Kestrel1110) | [https://github.com/kestrel1110/ES-Advanced-Starts](https://github.com/kestrel1110/ES-Advanced-Starts)  
 Category: Story  
 
