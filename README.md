@@ -2609,7 +2609,7 @@ Status: N/A
 <img src='Working/Galactic War/icon.png' width='100'></img><br>
 
 
-[Galactic.War.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Galactic.War.zip) | 161.21 mb | 2024-09-11 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Galactic%20War/)  
+[Galactic.War.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Galactic.War.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Galactic%20War/)  
 Author: 1010todd | [https://github.com/1010todd/Galactic-War](https://github.com/1010todd/Galactic-War)  
 Category: Overhauls  
 
@@ -5226,7 +5226,7 @@ Status: Playable since the version that adds minable asteroid (0.9.3).
 ### Modified Falcon
 
 
-[Modified.Falcon.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Modified.Falcon.zip) | 295.48 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Modified%20Falcon/)  
+[Modified.Falcon.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Modified.Falcon.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Modified%20Falcon/)  
 Author: N/A | N/A[]()  
 Category: Ships  
 
