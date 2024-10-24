@@ -11,6 +11,5 @@ header request error log:
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/SpaceCrate-0.1.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Plugins.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Gameplay.zip 
-403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://objects.githubusercontent.com/github-production-release-asset-2e65be/456062739/7dbeabba-319a-4ff4-bcd7-e0b2ceb50590?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241023%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241023T034654Z&X-Amz-Expires=300&X-Amz-Signature=afce58e7a85c5141f6f77210893bc79f4d8488e7d3935ecc364cb1bbc290c2fe&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DPlay.As.Sestor.zip&response-content-type=application%2Foctet-stream 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Races.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ships.zip 
