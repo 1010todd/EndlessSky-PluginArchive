@@ -1,5 +1,6 @@
 header request error log:
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Omnis.zip 
+403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://objects.githubusercontent.com/github-production-release-asset-2e65be/456062739/bf433a83-2d99-4df1-8fc8-61898a4994bf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241127T035233Z&X-Amz-Expires=300&X-Amz-Signature=3e0dc47dfee0033fac6bfb2eec76695a764682054179ce9b9c7dba2c8094119d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DDisable.Pack.zip&response-content-type=application%2Foctet-stream 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Aben.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Irm.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Korath.zip 
