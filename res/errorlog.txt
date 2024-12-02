@@ -7,7 +7,6 @@ header request error log:
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Quarg.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ema.Skylark.zip 
-403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://objects.githubusercontent.com/github-production-release-asset-2e65be/456062739/d924bddb-aadb-48a0-b8dc-5d2509b17dcb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241201T040121Z&X-Amz-Expires=300&X-Amz-Signature=0625906b773e29744edd5020ac55fca4712ccde2f139e87724d94514bb5e4187&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DHauler.Expansion.zip&response-content-type=application%2Foctet-stream 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/sheragi-rebirth-0.9.16.1.1.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/SpaceCrate-0.1.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Plugins.zip 
