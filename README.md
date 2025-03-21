@@ -4,6 +4,8 @@
 News(latest 15 entries):
 <table><tr><td width=800>
 
+2025-03-21 'galactic.capital.investment' updated
+
 2024-04-16 'more.boarding.missions' updated
 
 2024-02-20 'additional.command.buttons' updated
@@ -31,8 +33,6 @@ News(latest 15 entries):
 2023-06-20 'automata.destruction.75percent' updated
 
 2023-06-20 'automata.destruction.0percent' updated
-
-2023-06-20 'kor.efret.shipyard' updated
 
 
 
