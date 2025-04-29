@@ -1,5 +1,6 @@
 header request error log:
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Omnis.zip 
+400 Client Error: Bad Request for url: https://objects.githubusercontent.com/github-production-release-asset/456062739/19270437-4b30-4777-b0ea-b92213e4a792?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-04-29T04%3A00%3A00Z&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-04-29T03%3A55%3A00Z&ske=2025-04-29T04%3A55%3A09Z&sks=b&skv=2018-11-09&sig=9px9%2FFV28bTayiAIWt4BcSlcwrSJUACh9HpueprNZLE%3D&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc0NTg5OTIwMCwibmJmIjoxNzQ1ODk4OTAwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.vyuMnkwuf9685caY8GWoqjo6dNR4qWHFyL0zwMxaK3g 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Aben.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Irm.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Korath.zip 
@@ -7,6 +8,7 @@ header request error log:
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/AES.Quarg.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ema.Skylark.zip 
+400 Client Error: Bad Request for url: https://objects.githubusercontent.com/github-production-release-asset/456062739/17f9bec0-287b-4e18-9451-2cedc3252330?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-04-29T04%3A04%3A09Z&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-04-29T03%3A59%3A09Z&ske=2025-04-29T04%3A59%3A12Z&sks=b&skv=2018-11-09&sig=gspexIQQ%2BPSgAwFU66MX5aWTUNsPToAk%2BVR%2Blk0Tk6E%3D&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc0NTg5OTQ0OSwibmJmIjoxNzQ1ODk5MTQ5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.dvJkRxk6Sgl6Y4QeMp3fQ4XNmSMDVetRVcZG_G8QOZY 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/sheragi-rebirth-0.9.16.1.1.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/SpaceCrate-0.1.zip 
 404 Client Error: Not Found for url: https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/All.Plugins.zip 
