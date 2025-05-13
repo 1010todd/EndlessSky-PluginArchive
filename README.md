@@ -817,7 +817,7 @@ Status: N/A
 <img src='Working/World Forge/icon.png' width='100'></img><br>
 
 
-[World.Forge.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/World.Forge.zip) | 582.69 kb | 2025-03-10 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/World%20Forge/)  
+[World.Forge.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/World.Forge.zip) | 582.71 kb | 2025-05-12 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/World%20Forge/)  
 Author: N/A | [https://github.com/Amazinite/world-forge](https://github.com/Amazinite/world-forge)  
 Category: Cheats  
 
