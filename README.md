@@ -4,6 +4,8 @@
 News(latest 15 entries):
 <table><tr><td width=800>
 
+2025-06-05 'galactic.capital.investment' updated
+
 2025-03-21 'galactic.capital.investment' updated
 
 2024-04-16 'more.boarding.missions' updated
@@ -31,8 +33,6 @@ News(latest 15 entries):
 2023-06-20 'galactic.capital.investment' updated
 
 2023-06-20 'automata.destruction.75percent' updated
-
-2023-06-20 'automata.destruction.0percent' updated
 
 
 
@@ -924,7 +924,7 @@ Status: tested with 0.10.1
 ### Bare Ships
 
 
-[Bare.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Bare.Ships.zip) | 2.02 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Bare%20Ships/)  
+[Bare.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Bare.Ships.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Bare%20Ships/)  
 Author: lifeyouristhis | [https://github.com/lifeyouristhis/bare-ships-plugin](https://github.com/lifeyouristhis/bare-ships-plugin)  
 Category: Gameplay  
 
@@ -4778,7 +4778,7 @@ Status: N/A
 ### High Tier Warships
 
 
-[High.Tier.Warships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.Tier.Warships.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20Tier%20Warships/)  
+[High.Tier.Warships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.Tier.Warships.zip) | 14.35 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20Tier%20Warships/)  
 Author: 1010todd | N/A[]()  
 Category: Ships  
 
