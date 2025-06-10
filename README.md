@@ -3875,7 +3875,7 @@ Status: N/A
 <img src='Working/Space Invaders/icon.png' width='100'></img><br>
 
 
-[Space.Invaders.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Space.Invaders.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Space%20Invaders/)  
+[Space.Invaders.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Space.Invaders.zip) | 76.58 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Space%20Invaders/)  
 Author: mdsmestad | N/A[]()  
 Category: Races  
 
