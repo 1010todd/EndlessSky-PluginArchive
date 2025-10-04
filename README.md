@@ -4876,7 +4876,7 @@ Status: N/A
 ### Kaynz
 
 
-[Kaynz.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kaynz.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kaynz/)  
+[Kaynz.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kaynz.zip) | 7.08 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kaynz/)  
 Author: Mcgode | [https://github.com/Mcgode/Kaynz](https://github.com/Mcgode/Kaynz)  
 Category: Ships  
 
