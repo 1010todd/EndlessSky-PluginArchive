@@ -8183,7 +8183,7 @@ Status: N/A
 <img src='Working/Logbook Help/icon.png' height='100'></img><br>
 
 
-[Logbook.Help.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Logbook.Help.zip) | 28.29 kb | 2024-03-08 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Logbook%20Help/)  
+[Logbook.Help.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Logbook.Help.zip) | 28.61 kb | 2025-10-23 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Logbook%20Help/)  
 Author: Michael Arsollon | [https://github.com/MidnightPlugins/Logbook-Help](https://github.com/MidnightPlugins/Logbook-Help)  
 Category: N/A  
 
