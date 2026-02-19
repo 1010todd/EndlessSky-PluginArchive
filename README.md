@@ -784,7 +784,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Ursa Polaris/icon.png' width='100'></img><br>
 
 
-[Ursa.Polaris.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ursa.Polaris.zip) | 3.38 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ursa%20Polaris/)  
+[Ursa.Polaris.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ursa.Polaris.zip) | 3.38 mb | 2026-02-18 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ursa%20Polaris/)  
 Author: Local God | [https://github.com/LocalGod79/UrsaPolaris](https://github.com/LocalGod79/UrsaPolaris)  
 Category: Cheats  
 
