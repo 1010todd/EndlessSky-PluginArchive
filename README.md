@@ -701,7 +701,7 @@ Status: N/A
 ### Shipmod
 
 
-[Shipmod.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Shipmod.zip) | 6.67 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Shipmod/)  
+[Shipmod.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Shipmod.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Shipmod/)  
 Author: Lake (Galaucus) | [https://github.com/Galaucus/Shipmod](https://github.com/Galaucus/Shipmod)  
 Category: Cheats  
 
