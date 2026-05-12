@@ -2882,7 +2882,7 @@ Status: N/A
 ### Star Wars
 
 
-[Star.Wars.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Star.Wars.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Star%20Wars/)  
+[Star.Wars.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Star.Wars.zip) | 18.64 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Star%20Wars/)  
 Author: N/A | N/A[]()  
 Category: Overhauls  
 
